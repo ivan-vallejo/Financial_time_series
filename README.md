@@ -6,4 +6,4 @@
 
 ### <a href="https://www.youtube.com/watch?v=jJDSCSLbXmY">Results of the competition</a> 
 
-<p>In the video above, the performance of the best performing algorithms is displayed. The Black lines indicate the true value of the series, the color lines the prediction of each algorithm. Ours is the one at the upper-left corner, the other ones are the three best performing competitors.</p>
+<p>In the video above, the performance of the best performing algorithms is displayed. The black lines indicate the true value of the series, the color lines the prediction of each algorithm. Ours is the one at the upper-left corner, the other ones are the three best performing competitors.</p>
